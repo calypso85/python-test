@@ -1,6 +1,7 @@
 
 def main(msg):
 
+    // Another comment
     // different com   
     // Print a message
 
